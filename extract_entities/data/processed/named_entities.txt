@@ -1,0 +1,34 @@
+Latin (NORP)
+
+
+ (PERSON)
+Ancient Egypt (GPE)
+Mesopotamia (GPE)
+around 3500 to 3000 (CARDINAL)
+Greek (NORP)
+the fall (DATE)
+the Western Roman Empire (GPE)
+Greek (NORP)
+Western Europe (LOC)
+the early centuries (DATE)
+400 to 1000 (CARDINAL)
+the Middle Ages (DATE)
+Muslim (NORP)
+the Islamic Golden Age (EVENT)
+Greek (NORP)
+Islamic (NORP)
+Western Europe (LOC)
+the 10th to 13th century (DATE)
+the Scientific Revolution (EVENT)
+the 16th century (DATE)
+Greek (NORP)
+the 19th century (DATE)
+
+
+ (CARDINAL)
+Modern (NORP)
+three (CARDINAL)
+
+
+ (CARDINAL)
+Science (ORG)
