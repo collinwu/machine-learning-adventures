@@ -6,6 +6,7 @@ verify_ssl = true
 [dev-packages]
 cython = "*"
 pybind11 = "*"
+pylint = "*"
 
 [packages]
 numpy = "*"
